@@ -1,1 +1,2 @@
-# wordpress-ansible-j-
+# ansible2
+szerver script
